@@ -1,0 +1,8 @@
+POST http://localhost:8080/portfolio/buy
+Content-Type: application/json
+
+{
+  "coin": "Bitcoin",
+  "amount": 0.1
+}
+
