@@ -2,7 +2,7 @@
 
 Crypto Simulator is a **Java-based** cryptocurrency trading simulation platform that uses real-time market data from **CoinAPI** to provide a realistic trading experience without financial risk.  
 It features **virtual portfolio management**, **real-time chart visualization**, and **CSV data persistence** for tracking your trading performance.
-
+ 
 ## 🚀 Features
 
 - 📊 Real-time cryptocurrency price monitoring  
